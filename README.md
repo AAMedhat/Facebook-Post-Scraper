@@ -3,7 +3,7 @@
 This repository provides a Dockerized solution for scraping posts from Facebook using Selenium, processing the scraped data, and saving it as a CSV file. The repository contains scripts to handle the scraping and preprocessing tasks, ensuring a streamlined and repeatable process.
 
 
-#Overview
+# Overview
 
 The project includes:
 
@@ -16,7 +16,7 @@ A preprocessing script (preprocessing.py) to clean and prepare the data.
 A requirements.txt file for managing Python dependencies.
 
 
-#Prerequisites
+# Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 
@@ -25,7 +25,7 @@ Docker
 
 Git
 
-#Files in the Repository
+# Files in the Repository
 
 Dockerfile: Contains instructions to build the Docker image.
 
@@ -36,11 +36,8 @@ preprocessing.py: A script that preprocesses the scraped data and saves it as a 
 requirements.txt: Lists the Python dependencies required for the project.
 
 
-#Contributing
+# Contributing
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss improvements or bugs.
 
-#License
-
-This project is licensed under the MIT License.
 
