@@ -18,6 +18,7 @@ A requirements.txt file for managing Python dependencies.
 Before you begin, ensure you have the following installed on your system:
 
 Docker
+
 Git
 
 # Files in the Repository
