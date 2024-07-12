@@ -24,8 +24,11 @@ Git
 # Files in the Repository
 
 Dockerfile: Contains instructions to build the Docker image.
+
 scrapping.py: A script that scrapes posts from Facebook using Selenium.
+
 preprocessing.py: A script that preprocesses the scraped data and saves it as a CSV file.
+
 requirements.txt: Lists the Python dependencies required for the project.
 
 
