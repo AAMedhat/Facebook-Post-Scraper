@@ -5,7 +5,7 @@ This repository provides a Dockerized solution for scraping posts from Facebook 
 
 ## Overview
 
-###The project includes:
+### The project includes:
 
 A Dockerfile to build a Docker image.
 
@@ -18,7 +18,7 @@ A requirements.txt file for managing Python dependencies.
 
 ## Prerequisites
 
-###Before you begin, ensure you have the following installed on your system:
+### Before you begin, ensure you have the following installed on your system:
 
 Docker
 
